@@ -42,10 +42,6 @@
    
    -Both fields emphasize the importance of teamwork and collaboration to achieve common goals, whether 
     it's securing networks and systems or building innovative web applications.
-    
-    -Cybersecurity and web development professionals are consistently faced with complex challenges 
-     that require analytical thining, creativity, and problem-solving skills to mitigate risks, 
-     identify vulnerabilities, and develop robust solutions.
 
    
 **Identify any gaps or areas for further exploration** 
