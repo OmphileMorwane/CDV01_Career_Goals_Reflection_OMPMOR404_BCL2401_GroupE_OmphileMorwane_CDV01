@@ -50,9 +50,9 @@
    
 **Identify any gaps or areas for further exploration**
 
-    -I need to networking more so that I can find out more about these two industries, find out how  challenging it is to get into the industry and challenges developers face in their careers.
+  -I need to networking more so that I can find out more about these two industries, find out how  challenging it is to get into the industry and challenges developers face in their careers.
     
-    - I need to learn more about Javascript, as I have not grasped the concept as yet.
+  - I need to learn more about Javascript, as I have not grasped the concept as yet.
 
 ### Part 3: SMART Career Goals
 
