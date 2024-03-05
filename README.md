@@ -13,13 +13,15 @@
 1. **Skills Analysis**:
     
 **List your current skills and areas of expertise** - Proficient in HTML5 and CSS for structuring and 
-   Styling web applications, Critical thiinking, Version control and Collaboration
+   Styling web applications, Critical thinking, Version control and Collaboration, problem solving and attention to detail.
+   
 **Identify skills you need to develop or improve**- Javascript
 
 2. **Interests and Values**:
     
 **Describe your key interests related to your career** - Continuous learning, Collaboration and 
-    mentorship, Innovative technologies, Problem solving
+    mentorship, Innovative technologies, Problem solving.
+    
 **What values are important to you in a work environment?** - Respect and diversity, Open 
     communication, Teamwork and collaboration, Innovation and creativity, Work-life balance, and 
     appreciation, Empowerment and autonomy, Social responsibility
@@ -30,6 +32,7 @@
     
 **List the industries or roles you have researched**- Web development, Mobile App development, full- 
     stack development, cybersecurity and bioinformatics.
+    
 **Note any particular areas that piqued your interest** Cybersecurity and web development
    
 2. **Alignment with Personal Profile**:
@@ -44,7 +47,8 @@
     whether it's securing networks and systems or building innovative web applications.
 
     -Both fields are constantly faced with complex challenges that require analytical thinking, 
-     creativity, and problem-solving skills alleviate risks, identify vulnerabilities, and develop 
+     creativity,attention to details and problem-solving skills alleviate risks, identify 
+    vulnerabilities, and develop 
      robust solutions.
 
    
@@ -52,7 +56,7 @@
 
     -I need to networking more so that I can find out more about these two industries, find out how 
      challenging it is to get into the industry and challenges developers face in their careers.
-    - Learn more about javascript, as I have not grasped the concerp as yet.
+    - Learn more about javascript, as I have not grasped the concept as yet.
 
 ### Part 3: SMART Career Goals
 
@@ -60,7 +64,7 @@
     
 **List your specific, measurable, achievable, relevant, and time-bound goals**
 
-- Obtain CodeSpace certification fro Javascript Engineering.
+- Obtain CodeSpace certification for Javascript Engineering.
 - Secure an internship/entry-level job in Web development.
 
     
@@ -72,9 +76,8 @@
    **Describe how these align with your interests and skills**
 
    As an individual who believes is proficient with problem solving skills and possessing critical 
-   thinking skills, these sattributes are indispensable in both fields, demanding constant application
-   important in both fields and you are constantly required to solve problems and think crtically 
-   throughout.
+   thinking skills, these attributes are indispensable in both fields, demanding constant application
+   to solve difficult problems and understand situations well.
 
 
 ### Part 4: Action Plan
@@ -82,7 +85,7 @@
 1. **Steps to Achieve Short-term Goals**:
    
    - Study and Practice coding on a daily basis- Consistant practice is essential for mastering coding 
-     skills. By dedicating time each day to study and practice, individuals can reinforce their 
+     skills. By dedicating time each day to study and practice, I will be able to reinforce  my
      understanding of programming concepts, improve problem-solving abilities, and build fluency in 
      coding. This goal ensures continuous skill development and readiness for coding challenges 
      encounteres in these organizations.
@@ -109,7 +112,7 @@
 
    - Pursue interships or entry level positions in both fields to gain practical experience and 
      further develop skills. -This approach will help me gain hand-on-experience, apply theoretical 
-     knowledge in real-  world settings, and develop a diverse skill set that is valuable in the 
+     knowledge in real-world settings, and develop a diverse skill set that is valuable in the 
      industry.
      
      
@@ -119,7 +122,7 @@
    - Take care of my mental, physical and emotional health. Eat healthy, read books, exercise and have 
      enough sleep so that I can function at my optimun to reach my goals.
    - Networking.
-   - Study other languages like python, once i have polished my knowledge in javascript.
+   - Study other languages like python, once i have polished my knowledge in Javascript.
    - Obtain a Bioinformatic certication and GLP certificate to assist me obtain an entry level 
      position in the Clinical research field.
    - Code on a daily basis.
@@ -139,7 +142,7 @@
      adaptable to emerging trends ans opportunities in the industry.
 
 
-    - Unemplyment rate/Competition for internships or entry-level positions - I would overcome this 
+    - UnemplOyment rate/Competition for internships or entry-level positions - I would overcome this 
     challenge by developing a strong resume and portfolio showcasing relevant skills, projects , and 
     experiences, I would also network actively and leverage connections to undercover hiddent job 
     opportunities or referral opportunities.
