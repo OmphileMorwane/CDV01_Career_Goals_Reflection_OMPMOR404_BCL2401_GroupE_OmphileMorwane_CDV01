@@ -50,9 +50,9 @@
    
 **Identify any gaps or areas for further exploration**
 
-    -I need to networking more so that I can find out more about these two industries, find out how 
-     challenging it is to get into the industry and challenges developers face in their careers.
-    - Learn more about javascript, as I have not grasped the concept as yet.
+    -I need to networking more so that I can find out more about these two industries, find out how  challenging it is to get into the industry and challenges developers face in their careers.
+    
+    - I need to learn more about Javascript, as I have not grasped the concept as yet.
 
 ### Part 3: SMART Career Goals
 
@@ -138,7 +138,7 @@
      adaptable to emerging trends ans opportunities in the industry.
 
 
-    - UnemplOyment rate/Competition for internships or entry-level positions - I would overcome this 
+    - Unemployment rate/Competition for internships or entry-level positions - I would overcome this 
     challenge by developing a strong resume and portfolio showcasing relevant skills, projects , and 
     experiences, I would also network actively and leverage connections to undercover hiddent job 
     opportunities or referral opportunities.
