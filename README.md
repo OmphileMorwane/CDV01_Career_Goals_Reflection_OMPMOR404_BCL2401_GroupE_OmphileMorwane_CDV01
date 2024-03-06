@@ -104,7 +104,7 @@
    - Stay flexible and open-minded in exploring different opportunitiea within cybersecurity and web 
      development to discover areas of interest and potential career paths- This will enable me to 
      explore diverse opportunities, discover areas of interests, and identify potential career paths 
-     that align wiht my skills and interests.
+     that align with my skills and interests.
 
    - Pursue interships or entry level positions in both fields to gain practical experience and 
      further develop skills. -This approach will help me gain hand-on-experience, apply theoretical 
