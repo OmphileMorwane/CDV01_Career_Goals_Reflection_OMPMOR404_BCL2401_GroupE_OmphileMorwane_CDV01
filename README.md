@@ -5,7 +5,7 @@
 
 - **Name:** Omphile Morwane
 - **Date:** 2024/03/04
-- **Current Role/Position:** Javascript Engineering student
+- **Current Role/Position:** Software Development Student
 - **Field of Interest:** Web development, Cybersecurity and Bioinformatics
 
 ### Part 1: Self-Assessment Reflection
